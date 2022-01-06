@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jDelille
-- 🌱 I’m currently learning React, Typescript, Mongodb, 
+- 🌱 I’m currently learning full stack web development
 - 📫 How to reach me => justind7513@gmail.com
 
 <!---
