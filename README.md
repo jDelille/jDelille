@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jDelille
-- 🌱 I’m currently learning full stack web development
+- 🌱 Im a web developer looking for work
 - 📫 How to reach me => justind7513@gmail.com
 
 <!---
