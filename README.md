@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jDelille
 - 🌱 Im a web developer who loves using Javascript/React.
-- 📫 How to reach me => justind7513@gmail.com
+- 📫 How to reach me => dev.jdelille@gmail.com
 
 <!---
 jDelille/jDelille is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
