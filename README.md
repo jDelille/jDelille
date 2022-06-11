@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jDelille
+- 👋 Hi, I’m Justin
 - 🌱 Im a web developer who loves using Javascript/React.
 - 📫 How to reach me => dev.jdelille@gmail.com
 
