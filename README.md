@@ -5,6 +5,8 @@ Hey Im Justin welcome to my github!
   Next.js,
   Mobx,
   Firebase,
+  C,
+  SQL
 }
 
 Feel free to email me at dev.jdelille@gmail.com 
